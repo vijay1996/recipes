@@ -23,7 +23,6 @@ const RecipeView = () => {
     const {selectedRecipeFile, recipeTitle} = useContext(ViewContext);
     const metadata = require('../metadata/' + selectedRecipeFile);
     const image = require('../assets/images/' + metadata.image);
-    const footerImage = require('../assets/images/recipeViewFooter.png');
     const ingredientList = require('../metadata/_ingredients.json');
     return (
         <div id="recipeViewContent">
