@@ -51,7 +51,6 @@ const RecipeView = () => {
                     })}
                 </ol>
             </div>
-            <img src={footerImage} alt="footer image" style={footerImageStyle} />
         </div>
     )
 }
