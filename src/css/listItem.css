@@ -1,0 +1,15 @@
+
+
+.recipeListItem {
+    width: 200px;
+    cursor: pointer;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipeListItemBaner {
+    width: 200px;
+    height: 200px;
+}

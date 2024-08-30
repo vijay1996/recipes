@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import ViewContext from "../context/ViewContext";
+import '../css/navbar.css';
 
 const Navbar = () => {
     const {setView} = useContext(ViewContext);

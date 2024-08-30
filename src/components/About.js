@@ -1,9 +1,10 @@
 import React from "react";
+import '../css/about.css';
 
 const About = () => {
     return (
-        <div id="content">
-            <h1>About Me</h1>
+        <div id="aboutContent">
+            <h1 className="title">About Me</h1>
             <p>
                 Welcome to my little corner of the internet! I'm Vijay, a passionate home cook and food enthusiast with a love for creating and sharing delicious recipes. Cooking has always been my way of expressing creativity, finding comfort, and connecting with others. Whether it's a simple weeknight meal or an elaborate feast for friends and family, I believe that every dish has a story to tell.
             </p>
@@ -22,6 +23,7 @@ const About = () => {
             <p>
                 Happy cooking!
             </p>
+            <br></br>
             <p>
                 Vijaybhoj Raj C M <br></br>
                 <span>Email</span>: <span style={{color: "blue", cursor: "pointer"}}>vijaybhojraj.cm@gmail.com</span>

@@ -1,5 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import ViewContext from "../context/ViewContext";
+import '../css/listItem.css';
 
 const ListItem = ({recipe}) => {
     const {file, name, image} = recipe;
