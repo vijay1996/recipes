@@ -1,0 +1,30 @@
+{
+    "title": "Bhuna Gosht",
+    "image": "bhunaGosht.jpeg",
+    "ingredients": [
+        {"name": "0", "quantity": "500g"},
+        {"name": "1", "quantity": "300g"},
+        {"name": "2", "quantity": "1 tbsp"},
+        {"name": "3", "quantity": "1 tsp"},
+        {"name": "4", "quantity": "1 tbsp"},
+        {"name": "5", "quantity": "1 tbsp"},
+        {"name": "7", "quantity": "5 tbsp"},
+        {"name": "8", "quantity": "2 tbsp"},
+        {"name": "9", "quantity": "1/2 cup"},
+        {"name": "6", "quantity": "4 tbsp"},
+        {"name": "12", "quantity": "for garnish"},
+        {"name": "13", "quantity": "for garnish"},
+        {"name": "30", "quantity": "2 tomatoes (chopped)"},
+        {"name": "16", "quantity": "1 tsp"},
+        {"name": "19", "quantity": "1 tsp"}
+    ],
+    "procedure": [
+        "Heat mustard oil in a pan and sauté onions till golden brown.",
+        "Add ginger garlic paste and cook till the raw smell disappears.",
+        "Add lamb shanks and cook till brown.",
+        "Mix in turmeric, chili powder, and coriander powder.",
+        "Add chopped tomatoes and cook till they soften.",
+        "Pour in milk and cook till the gravy thickens.",
+        "Garnish with coriander and serve with roti or naan."
+    ]
+}

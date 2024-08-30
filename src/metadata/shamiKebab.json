@@ -1,0 +1,23 @@
+{
+    "title": "Shami Kebab",
+    "image": "shamiKebab.jpeg",
+    "ingredients": [
+        {"name": "0", "quantity": "500g (minced)"},
+        {"name": "1", "quantity": "100g"},
+        {"name": "2", "quantity": "1 tbsp"},
+        {"name": "3", "quantity": "1/2 tsp"},
+        {"name": "4", "quantity": "1 tsp"},
+        {"name": "5", "quantity": "1 tbsp"},
+        {"name": "6", "quantity": "3 tbsp"},
+        {"name": "33", "quantity": "1 cup"},
+        {"name": "34", "quantity": "1 tsp"},
+        {"name": "13", "quantity": "for garnish"}
+    ],
+    "procedure": [
+        "Boil chana dal till soft and drain the water.",
+        "Mix minced lamb, chana dal, onions, ginger garlic paste, and spices in a bowl.",
+        "Form the mixture into small patties.",
+        "Heat oil in a pan and shallow fry the patties till golden brown.",
+        "Serve hot with mint chutney and onion rings."
+    ]
+}

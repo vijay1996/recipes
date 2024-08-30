@@ -1,0 +1,32 @@
+{
+    "title": "Mutton Rezala",
+    "image": "muttonRezala.jpeg",
+    "ingredients": [
+        {"name": "0", "quantity": "500g"},
+        {"name": "1", "quantity": "200g"},
+        {"name": "2", "quantity": "1 tbsp"},
+        {"name": "3", "quantity": "1 tsp"},
+        {"name": "5", "quantity": "2 tbsp"},
+        {"name": "7", "quantity": "4 tbsp"},
+        {"name": "8", "quantity": "2 tbsp"},
+        {"name": "9", "quantity": "1/2 cup"},
+        {"name": "6", "quantity": "4 tbsp"},
+        {"name": "11", "quantity": "5 drops"},
+        {"name": "10", "quantity": "10 strands"},
+        {"name": "37", "quantity": "1/4 cup"},
+        {"name": "13", "quantity": "for garnish"},
+        {"name": "16", "quantity": "1 tsp"},
+        {"name": "19", "quantity": "1 tsp"},
+        {"name": "18", "quantity": "3 pieces"}
+    ],
+    "procedure": [
+        "Soak almonds in water for 1 hour, then peel and grind to a paste.",
+        "Heat oil in a pan and sauté onions till golden brown.",
+        "Add ginger garlic paste and cook till the raw smell disappears.",
+        "Add lamb shanks and sear on high heat.",
+        "Add almond paste, turmeric, and coriander powder.",
+        "Pour in milk and cook till the gravy thickens.",
+        "Add saffron milk and kewra water and simmer for 10 minutes.",
+        "Garnish with coriander and serve hot."
+    ]
+}

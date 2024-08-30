@@ -10,7 +10,7 @@ const RecipeList = () => {
     const [validRecipes, setValidRecipes] = useState([]);
 
     useEffect(() => {
-        setValidRecipes(recipes.filter(recipe => recipe.name.toLowerCase().includes(searchString.toLowerCase())))
+        setValidRecipes(recipes.filter(recipe => recipe.name.toLowerCase().includes(searchString.toLowerCase())).sort((a, b) => a.name.localeCompare(b.name)))
     }, [searchString]);
     
     return (

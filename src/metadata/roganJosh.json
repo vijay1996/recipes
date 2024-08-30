@@ -1,0 +1,34 @@
+{
+    "title": "Rogan Josh",
+    "image": "roganJosh.jpeg",
+    "ingredients": [
+        {"name": "0", "quantity": "500g"},
+        {"name": "1", "quantity": "200g"},
+        {"name": "2", "quantity": "1 tbsp"},
+        {"name": "3", "quantity": "1 tsp"},
+        {"name": "4", "quantity": "1 tsp"},
+        {"name": "5", "quantity": "2 tbsp"},
+        {"name": "7", "quantity": "4 tbsp"},
+        {"name": "8", "quantity": "2 tbsp"},
+        {"name": "6", "quantity": "4 tbsp"},
+        {"name": "26", "quantity": "1 tbsp"},
+        {"name": "27", "quantity": "1 tbsp"},
+        {"name": "15", "quantity": "2 cups"},
+        {"name": "13", "quantity": "for garnish"},
+        {"name": "28", "quantity": "1 tbsp"},
+        {"name": "16", "quantity": "1 tsp"},
+        {"name": "19", "quantity": "1 tsp"}
+    ],
+    "procedure": [
+        "Heat mustard oil in a pan, add asafoetida and sauté for a few seconds.",
+        "Add onions and cook till golden brown.",
+        "Add lamb shanks and sear on high heat.",
+        "Mix in ginger garlic paste, turmeric, and chili powder.",
+        "Cook for 5 minutes, then add yogurt and mix well.",
+        "Pour in water and bring to a boil.",
+        "Lower the heat and simmer for an hour.",
+        "Sprinkle fennel powder and stir well.",
+        "Cook till the oil separates from the curry.",
+        "Garnish with coriander and serve hot."
+    ]
+}

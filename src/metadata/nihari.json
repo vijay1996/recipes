@@ -1,0 +1,31 @@
+{
+    "title": "Nihari",
+    "image": "nihari.jpeg",
+    "ingredients": [
+        {"name": "0", "quantity": "500g"},
+        {"name": "1", "quantity": "200g"},
+        {"name": "2", "quantity": "1 tbsp"},
+        {"name": "3", "quantity": "1 tsp"},
+        {"name": "4", "quantity": "1 tbsp"},
+        {"name": "5", "quantity": "2 tbsp"},
+        {"name": "7", "quantity": "4 tbsp"},
+        {"name": "9", "quantity": "1/2 cup"},
+        {"name": "31", "quantity": "1 tsp"},
+        {"name": "32", "quantity": "2 tbsp"},
+        {"name": "13", "quantity": "for garnish"},
+        {"name": "15", "quantity": "2 cups"},
+        {"name": "16", "quantity": "1 tsp"},
+        {"name": "17", "quantity": "2 pieces"},
+        {"name": "19", "quantity": "1 tsp"}
+    ],
+    "procedure": [
+        "Heat mustard oil in a large pot and add onions, cooking till golden brown.",
+        "Add ginger garlic paste and cook till fragrant.",
+        "Add lamb shanks and sauté on high heat for 5 minutes.",
+        "Mix in turmeric, red chili powder, and coriander powder.",
+        "Sprinkle nihari masala and mix well.",
+        "Pour in water, cover, and simmer for 2 hours.",
+        "Make a slurry with flour and water, add to the pot, and cook till the gravy thickens.",
+        "Garnish with coriander and serve with naan or paratha."
+    ]
+}

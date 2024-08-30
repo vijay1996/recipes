@@ -1,5 +1,15 @@
 {
     "recipes": [
-        {"file": "muttonJehangiriKorma.json", "name": "Mutton Jehangiri Korma", "image": "muttonJehangiriKorma.jpeg"}
+        {"file": "muttonJehangiriKorma.json", "name": "Mutton Jehangiri Korma", "image": "muttonJehangiriKorma.jpeg"},
+        {"file": "hyderabadiBiryani.json", "name": "Hyderabadi Biryani", "image": "hyderabadiBiryani.jpeg"},
+        {"file": "roganJosh.json", "name": "Rogan Josh", "image": "roganJosh.jpeg"},
+        {"file": "keemaMatar.json", "name": "Keema Matar", "image": "keemaMatar.jpeg"},
+        {"file": "bhunaGosht.json", "name": "Bhuna Gosht", "image": "bhunaGosht.jpeg"},
+        {"file": "nihari.json", "name": "Nihari", "image": "nihari.jpeg"},
+        {"file": "shamiKebab.json", "name": "Shami Kebab", "image": "shamiKebab.jpeg"},
+        {"file": "muttonVindaloo.json", "name": "Mutton Vindaloo", "image": "muttonVindaloo.jpeg"},
+        {"file": "muttonRezala.json", "name": "Mutton Rezala", "image": "muttonRezala.jpeg"},
+        {"file": "muttonDhansak.json", "name": "Mutton Dhansak", "image": "muttonDhansak.jpeg"},
+        {"file": "muttonSaagwala.json", "name": "Mutton Saagwala", "image": "muttonSaagwala.jpeg"}
     ]
 }

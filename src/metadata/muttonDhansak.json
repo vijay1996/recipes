@@ -1,0 +1,28 @@
+{
+    "title": "Mutton Dhansak",
+    "image": "muttonDhansak.jpeg",
+    "ingredients": [
+        {"name": "0", "quantity": "500g"},
+        {"name": "1", "quantity": "200g"},
+        {"name": "2", "quantity": "1 tbsp"},
+        {"name": "3", "quantity": "1 tsp"},
+        {"name": "4", "quantity": "1 tbsp"},
+        {"name": "5", "quantity": "2 tbsp"},
+        {"name": "7", "quantity": "4 tbsp"},
+        {"name": "8", "quantity": "2 tbsp"},
+        {"name": "6", "quantity": "4 tbsp"},
+        {"name": "38", "quantity": "1/2 cup"},
+        {"name": "39", "quantity": "2 tbsp"},
+        {"name": "13", "quantity": "for garnish"}
+    ],
+    "procedure": [
+        "Boil lentils till soft, then mash them.",
+        "Heat oil in a pan and sauté onions till golden brown.",
+        "Add ginger garlic paste and cook till the raw smell disappears.",
+        "Add lamb shanks and cook till brown.",
+        "Mix in turmeric, red chili powder, and coriander powder.",
+        "Add mashed lentils and tamarind paste.",
+        "Simmer for 30 minutes and garnish with coriander.",
+        "Serve hot with steamed rice."
+    ]
+}
